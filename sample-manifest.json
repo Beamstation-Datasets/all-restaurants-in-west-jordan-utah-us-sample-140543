@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9fd31eb0-b33d-41f7-a3f9-f8cf6e746cb0",
+  "export_job_id": "a4ab8209-bb66-4a2f-9d3b-0b3fb71955cf",
   "id_short": 140543,
-  "published_at": "2026-04-10T19:14:22Z",
+  "published_at": "2026-04-19T19:26:52Z",
   "repo_name": "all-restaurants-in-west-jordan-utah-us-sample-140543",
   "sample_asset_name": "beamstation_140543_restaurants-us-ut_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/140543/beamstation_140543_restaurants-us-ut_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "89954fb9a486dd10ebf622128311c99d3bf2c05ff64328b37ae93a5ab5bcf52c",
-  "sample_size_bytes": 88741,
-  "total_records": 203
+  "sample_records": 18,
+  "sample_sha256": "c63618f5ccc5dec8d168e394a652a64adb047db177dbd467ec86177125201647",
+  "sample_size_bytes": 79039,
+  "total_records": 187
 }
